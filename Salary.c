@@ -23,12 +23,13 @@ int main(){
     return 0;
 }
 // OUTPUT
-// Enter your name: Harshita
+// Enter your name: Chunendra
 // Enter Basic Salary: 20000
-// Empolyee Name    :Harshita
+// Empolyee Name    :Chunendra
 // Basic Salary     :20000.00
 // House Rent Allow :4000.00
 // Dearness Allow   :2000.00
 // Gross Salary     :26000.00
 // Income Tax       :1300.00
+
 // Net Salary       :24700.00
