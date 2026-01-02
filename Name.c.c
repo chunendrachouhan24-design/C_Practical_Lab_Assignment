@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main(){
-    printf("Harshita Singh\n");
+    printf("Chunendra Chouhan\n");
     printf("Age: 19 years");
     return 0;
 }
 // OUTPUT
-// Harshita Singh
+// Chunendra Chouhan
 // Age: 19 years
